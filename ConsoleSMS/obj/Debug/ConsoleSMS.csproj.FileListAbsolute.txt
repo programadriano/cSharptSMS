@@ -1,0 +1,15 @@
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\ConsoleSMS.exe.config
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\ConsoleSMS.exe
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\ConsoleSMS.pdb
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Newtonsoft.Json.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Twilio.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Newtonsoft.Json.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\bin\Debug\Twilio.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\obj\Debug\ConsoleSMS.csprojResolveAssemblyReference.cache
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\obj\Debug\ConsoleSMS.exe
+c:\users\tadriano\documents\visual studio 2017\Projects\ConsoleSMS\ConsoleSMS\obj\Debug\ConsoleSMS.pdb
